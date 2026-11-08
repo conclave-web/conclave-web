@@ -2,13 +2,11 @@
 
 **Desenvolvimento web · Interfaces digitais · Experiências interativas**
 
-Transformo ideias em experiências digitais funcionais, com atenção à interface, identidade visual e experiência de uso.
+Projetos digitais com foco em desenvolvimento front-end, interfaces e experiências interativas.
 
 ## Sobre
 
-Sou Lorenzo Oliveira, desenvolvedor focado em projetos web e criação de interfaces. Trabalho principalmente com tecnologias front-end e exploro soluções que combinam código, design e ferramentas modernas.
-
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e construindo projetos próprios para evoluir na prática.
+Conclave.dev é uma identidade independente para desenvolvimento e experimentação web. O foco está em construir projetos práticos, explorar tecnologias modernas e aprimorar continuamente a qualidade do código e da experiência de uso.
 
 ## Tecnologias
 
@@ -23,31 +21,31 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e constr
 
 ## Projetos em destaque
 
-### CONCLAV3
-Portfólio e presença digital para apresentar meu trabalho e projetos.
-- [Acessar o site](https://conclav3.vercel.app/)
-
 ### NULLS
 Experiência experimental de suspense psicológico no navegador, com efeitos visuais e interação em JavaScript.
-- [Ver repositório](https://github.com/conclave-web/nulls-game-)
+- [Acessar repositório](https://github.com/conclave-web/nulls-game-)
 
 ### BOOM Developers
 Projeto de estúdio digital com foco em sites, landing pages e interfaces.
-- [Ver repositório](https://github.com/conclave-web/BOOM-Developers)
+- [Acessar repositório](https://github.com/conclave-web/BOOM-Developers)
+
+### CONCLAV3
+Projeto de portfólio e apresentação digital.
+- [Acessar site](https://conclav3.vercel.app/)
 
 ## Áreas de interesse
 
 - Desenvolvimento front-end
+- HTML, CSS e JavaScript
 - UI e experiência do usuário
 - Landing pages e sites institucionais
 - Interfaces interativas
-- Segurança e boas práticas no desenvolvimento web
+- Segurança e boas práticas web
 
-## Contato e presença
+## Presença
 
 - **GitHub:** [@conclave-web](https://github.com/conclave-web)
-- **Portfólio:** [conclav3.vercel.app](https://conclav3.vercel.app/)
 
 ---
 
-<sub>Construindo, aprendendo e evoluindo projeto por projeto. · Conclave.dev</sub>
+<sub>Conclave.dev · Construindo projeto por projeto.</sub>
